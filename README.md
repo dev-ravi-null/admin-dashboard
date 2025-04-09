@@ -98,5 +98,6 @@ Redux
 ![alt text](image-10.png)
 ![alt text](image-11.png)
 
-Complete Video with responsive features
+Live render 
+![alt text](image-14.png)
 <!-- <video controls src="20250409-0530-53.8578725.mp4" title="Title"></video> -->
